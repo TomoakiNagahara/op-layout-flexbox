@@ -8,7 +8,7 @@
  * @copyright   Tomoaki Nagahara All right reserved.
  */
 
-/* <?php if( OP()->Env()->isAdmin() != true ){ return; } ?> */
+/* <?php if( OP()->isAdmin() != true ){ return; } ?> */
 
 //	Add the branch number as an overlay on the favicon.
 (function(){
