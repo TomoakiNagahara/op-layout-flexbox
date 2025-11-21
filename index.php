@@ -5,7 +5,7 @@
  * @version     1.0
  * @package     op-layout-flexbox
  * @author      Tomoaki Nagahara <tomoaki.nagahara@gmail.com>
- * @copyright   Tomoaki Nagahara All right reserved.
+ * @copyright   Tomoaki Nagahara All rights reserved.
  */
 
 /** Declare strict
